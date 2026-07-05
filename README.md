@@ -25,6 +25,19 @@ does **not** prove.
 
 <br/>
 
+## What I'm building
+
+**[JARVI3](https://jvi3.com)** — an AI platform, **public beta, live now**.
+Energy-efficient inference architecture with the verification-gate layer
+above sitting in front of it: the model proposes, the gates verify, every
+answer is checked before it's trusted.
+
+**EcoKure Pty Ltd** — the company behind JARVI3. Registered, operating, and
+**open for business** — partnerships, licensing, and enterprise engagements
+welcome. Reach out at the email below or through [jvi3.com](https://jvi3.com).
+
+<br/>
+
 ## The gates — what each one checks
 
 | Repo | Input | Deterministic verdict on |
