@@ -21,14 +21,14 @@ does **not** prove.
 
 ## What I'm building
 
-**[JARVI3](https://jvi3.com)** — an AI platform, **public beta, live now**.
+**[JARVI3](https://jarvi3.com)** — an AI platform, **public beta, live now**.
 Energy-efficient inference architecture with the verification-gate layer
 above sitting in front of it: the model proposes, the gates verify, every
 answer is checked before it's trusted.
 
 **EcoKure Pty Ltd** — the company behind JARVI3. Registered, operating, and
 **open for business** — partnerships, licensing, and enterprise engagements
-welcome. Reach out at the email below or through [jvi3.com](https://jvi3.com).
+welcome. Reach out at the email below or through [jarvi3.com](https://jarvi3.com).
 
 <br/>
 
@@ -57,7 +57,7 @@ welcome. Reach out at the email below or through [jvi3.com](https://jvi3.com).
 - [dtl-security-benchmark](https://github.com/kyal102/dtl-security-benchmark) — 166 deterministic security-gate test cases across 8 CWE families
 
 These public repos are lite editions; the full engine (JARVI3, at
-[jvi3.com](https://jvi3.com)) is private.
+[jvi3.com](https://jarvi3.com)) is private.
 
 <br/>
 
