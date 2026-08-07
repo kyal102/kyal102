@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1500&color=2FB8A4&center=true&vCenter=true&width=640&lines=AI+proposes.+Gates+verify.;Deterministic.+Replayable.+Evidence-backed.;No+model+in+the+loop+for+the+verdict.;Every+pass+states+what+it+does+not+prove." alt="Typing SVG" />
 </div>
 
-# Kyal McAuliffe — JARVI3 / DTL Verification Systems
+# Kyal McAuliffe — Jarvi3.com / DTL Verification Systems
 
 I build deterministic verification gates for AI, science, security, and high-consequence workflows.
 
