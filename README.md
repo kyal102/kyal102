@@ -112,6 +112,7 @@ The public repos are intentionally small, inspectable, and limitation-first. The
 
 ## Start here
 
+- **Current flagship:** [EU AI Act DTL](https://github.com/kyal102/eu-ai-act-dtl) — deterministic evidence and verification for probabilistic AI.
 - **Understand the thesis:** [ClaimGate](https://github.com/kyal102/claimgate)
 - **Run the end-to-end flow:** [ClaimStack Demo](https://github.com/kyal102/claimstack-demo)
 - **Inspect evidence receipts:** [EvidencePack](https://github.com/kyal102/evidencepack)
