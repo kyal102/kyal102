@@ -4,9 +4,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1500&color=2FB8A4&center=true&vCenter=true&width=640&lines=AI+proposes.+Gates+verify.;Deterministic.+Replayable.+Evidence-backed.;No+model+in+the+loop+for+the+verdict.;Every+pass+states+what+it+does+not+prove." alt="Typing SVG" />
 </div>
 
-# Kyal McAuliffe — Jarvi3.com / DTL Verification Systems
+# EcoKure DTL — JARVI3.com verification systems
 
-I build deterministic verification gates for AI, science, security, and high-consequence workflows.
+I build deterministic verification infrastructure for companies deploying AI in science, security, engineering and other high-consequence workflows.
 
 > **AI proposes. Gates verify. Evidence records. Replay checks drift.**
 
@@ -67,7 +67,7 @@ JARVI3 Packages Labs is the product surface where domain-specific gate demos can
 
 The public repositories are lite editions for evaluation, education, integration work, and independent review. The private JARVI3 deployment may provide the surrounding platform, orchestration, and product experience. The public demos do not claim certification.
 
-## Why this matters to large companies
+## Why this matters to companies
 
 The useful enterprise question is not “does the model sound confident?” It is:
 
@@ -112,7 +112,7 @@ The public repos are intentionally small, inspectable, and limitation-first. The
 
 ## Start here
 
-- **Current flagship:** [EU AI Act DTL](https://github.com/kyal102/eu-ai-act-dtl) — deterministic evidence and verification for probabilistic AI.
+- **Company flagship:** [EcoKure DTL](https://github.com/kyal102/eu-ai-act-dtl) — deterministic verification infrastructure for AI-enabled operations.
 - **Understand the thesis:** [ClaimGate](https://github.com/kyal102/claimgate)
 - **Run the end-to-end flow:** [ClaimStack Demo](https://github.com/kyal102/claimstack-demo)
 - **Inspect evidence receipts:** [EvidencePack](https://github.com/kyal102/evidencepack)
