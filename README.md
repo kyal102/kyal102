@@ -6,6 +6,9 @@
 
 # EcoKure DTL — JARVI3.com verification systems
 
+**Explore the E-stack and run a public example:** [JARVI3 / EcoKure tools and evidence](https://kyal102.github.io/jarvi3-dtl-evidence-board/).
+The overview connects runnable tools, fresh MathGate regression evidence, and the current status of external benchmark submissions.
+
 I build deterministic verification infrastructure for companies deploying AI in science, security, engineering and other high-consequence workflows.
 
 > **AI proposes. Gates verify. Evidence records. Replay checks drift.**
@@ -77,7 +80,7 @@ The gate architecture is intended to support:
 
 - **AI governance:** explicit refusal states such as NEEDS_DATA and UNSUPPORTED_CLAIM;
 - **research and engineering QA:** deterministic checks before publication or export;
-- **security assurance:** allowlisted replay commands and inspectable failure states;
+- **verification workflows:** trusted local replay commands and inspectable failure states;
 - **data provenance:** inputs, normalization, versions, and certificates recorded together;
 - **regulated workflows:** clear separation between automated checks and human/domain approval;
 - **integration:** small CLIs, Python packages, GitHub Actions, dashboards, and same-origin product embedding.
