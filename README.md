@@ -4,10 +4,12 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1500&color=2FB8A4&center=true&vCenter=true&width=640&lines=AI+proposes.+Gates+verify.;Deterministic.+Replayable.+Evidence-backed.;No+model+in+the+loop+for+the+verdict.;Every+pass+states+what+it+does+not+prove." alt="Typing SVG" />
 </div>
 
-# EcoKure DTL — JARVI3.com verification systems
+# JARVI3 — AI workflows with inspectable verification
 
 **Explore the E-stack and run a public example:** [JARVI3 / EcoKure tools and evidence](https://kyal102.github.io/jarvi3-dtl-evidence-board/).
 The overview connects runnable tools, fresh MathGate regression evidence, and the current status of external benchmark submissions.
+
+**Bring one AI-assisted workflow:** [Explore a four-week JARVI3 / EcoKure pilot](https://kyal102.github.io/jarvi3-dtl-evidence-board/pilot.html). Inspect the recorded demonstration, define the evidence and review steps, and agree what success should look like before starting.
 
 I build deterministic verification infrastructure for companies deploying AI in science, security, engineering and other high-consequence workflows.
 
